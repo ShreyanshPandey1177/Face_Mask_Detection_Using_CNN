@@ -44,7 +44,7 @@ Display Result: Draw a rectangle and label around the detected face (Mask / No M
 
 🧪 How to Run
 # Clone the repository
-git clone https://github.com/your-username/face-mask-detection.git
+git clone https://github.com/shreyanshPandey1177/face-mask-detection.git
 cd face-mask-detection
 
 # Install dependencies
